@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Adopciones.Domain/Adopciones.Domain.csproj" />
+  <Project Path="Adopciones.Application/Adopciones.Application.csproj" />
+  <Project Path="Adopciones.Infrastructure/Adopciones.Infrastructure.csproj" />
+  <Project Path="Adopciones.Api/Adopciones.Api.csproj" />
+</Solution>
